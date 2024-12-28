@@ -1,0 +1,129 @@
+                     GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2024  TahmidRaven
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+     Preamble
+
+ The GNU General Public License is a free, copyleft license for
+ software and other kinds of works.  You can redistribute it and/or
+ modify it under the terms of the License, as published by the Free
+ Software Foundation, either version 3 of the License, or (at your
+ option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+     Terms and Conditions
+
+ 0. Definitions.
+
+ “This License” refers to version 3 of the GNU General Public License.
+
+ “Copyright” also means copyright-like laws that apply to other kinds of
+ works, such as semiconductor masks.
+
+ “The Program” refers to any work covered by this License.  Each licensee is
+ addressed as “you”.
+
+ “Modifications” means any work based on the Program, or any work that uses
+ the Program in a way that is covered by this License.  The term “modification”
+ is intended to include the source code and any further changes or additions
+ to it.
+
+ “Source code” means the preferred form for making modifications to the
+ Program.
+
+ “Object code” means any form of the Program other than the source code.
+
+ 1. Source Code.
+
+ The source code for a work means the preferred form of the work for making
+ modifications to it.  For an executable work, complete source code means all
+ the source code for all modules it contains, plus any associated interface
+ definition files, plus the scripts used to control compilation and installation
+ of the executable.  However, as a special exception, the source code distributed
+ need not include anything that is normally distributed (in either source or
+ binary form) with the major components (compiler, kernel, and so on) of the
+ operating system on which the executable runs, unless that component itself
+ accompanies the executable.
+
+ If distribution of object code is made by offering access to copy from a
+ designated place, then offering equivalent access to copy the source code
+ from the same place satisfies the requirement to provide source code.
+
+ 2. Basic Permissions.
+
+ You may copy, modify, distribute, and sublicense the Program, provided that
+ you meet the following conditions:
+
+ a) You must cause any modified files to carry prominent notices stating
+    that you changed the files and the date of any change.
+
+ b) You must distribute the source code for the modified version, or
+    make it available, and you must license the modified version under
+    this License.
+
+ c) You must preserve the copyright notice and disclaimer of warranty for
+    the original version, along with any relevant notices.
+
+ 3. Copyleft.
+
+ The intent of the GPL is to ensure that every user has freedom to share and
+ change software. To protect these rights, it requires that modified versions
+ of the Program be distributed under the same license. This guarantees that
+ the freedoms you receive with the Program are also passed along to others.
+
+ 4. Conveying Modified Source Versions.
+
+ You may convey a modified version of the Program under the terms of this
+ License, provided that you meet the conditions for modified versions:
+    a) You must cause the modified files to carry prominent notices stating
+       that you changed the files and the date of any change.
+    b) You must distribute the source code of the modified version, and you
+       must license the modified version under this License.
+
+ 5. Conveying Non-Source Forms.
+
+ You may convey a work in object code or executable form under the terms
+ of this License, provided that you:
+    a) Provide the source code, or make it available.
+    b) Include the complete license text, including a reference to the GPLv3.
+
+ 6. Tivoization.
+
+ If you modify the Program and convey the modified version to others, you
+ must make sure that users are able to install their own versions of the
+ software on the device it is running on, regardless of any hardware
+ restrictions.
+
+ 7. Patent Protection.
+
+ The GNU GPLv3 includes a clause that protects contributors from patent
+ litigation by users of the software. You cannot use the software in a way
+ that infringes the patents of the contributors.
+
+ 8. Compatibility with Other Licenses.
+
+ The GPLv3 is more permissive than earlier versions, allowing you to
+ combine it with other licenses under certain conditions.
+
+ 9. Termination.
+
+ This License will terminate automatically if you violate any of its
+ conditions. However, you can regain the license by complying with the
+ License conditions within 30 days of the violation.
+
+ 10. Additional Terms.
+
+ You can apply additional terms to your modifications, but these terms must
+ not conflict with the GPLv3.
+
+     END OF TERMS AND CONDITIONS
