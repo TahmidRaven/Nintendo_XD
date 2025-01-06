@@ -133,9 +133,9 @@ author_page_line_13 db 10,13, '                         *********************___
 sir_page_line_1 db 10,13, '******_____________******$'
 sir_page_line_2 db 10,13, '**     Submitted To    **$'
 sir_page_line_3 db 10,13, '-------------------------$'
-sir_page_line_4 db 10,13, '|  Labib Hasan Khan Sir |$'
+sir_page_line_4 db 10,13, '|     Waseq Alvi Sir    |$'
 sir_page_line_5 db 10,13, '-------------------------$'
-sir_page_line_6 db 10,13, '|    Waseq Alvi Sir     |$'
+sir_page_line_6 db 10,13, '|  Labib Hasan Khan Sir |$'
 sir_page_line_7 db 10,13, '-------------------------$'
 sir_page_line_8 db 10,13, '**                     **$'
 sir_page_line_9 db 10,13, '******_____________******$'                   
@@ -200,7 +200,7 @@ start:
     mov dx, offset welcome_page_line_17
     int 21h
     
-    ;Taking Input
+    ;Taking Input -GAME SEL
     mov ah, 01
     int 21h
     mov bl, al
