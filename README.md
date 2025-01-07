@@ -11,9 +11,8 @@
 
 Check out screenshots of the games running on emu8086 below!
 
-![image](https://github.com/user-attachments/assets/7e1ba4bc-0adb-436b-bebf-39b4327d3f76)
-![image](https://github.com/user-attachments/assets/98cdb50f-b959-497e-9115-ce7db5c4a582)
-![image](https://github.com/user-attachments/assets/851cd988-994a-4f52-8227-8aaffcba0908)
-![image](https://github.com/user-attachments/assets/f7e25f53-f687-41b1-a742-d8100f3b2936)
-![image](https://github.com/user-attachments/assets/ac52bbbb-e312-4206-a42d-4d262adfd76c)
-
+![image](https://github.com/username/repository/blob/main/path-to-image1.png?raw=true)
+![image](https://github.com/username/repository/blob/main/path-to-image2.png?raw=true)
+![image](https://github.com/username/repository/blob/main/path-to-image3.png?raw=true)
+![image](https://github.com/username/repository/blob/main/path-to-image4.png?raw=true)
+![image](https://github.com/username/repository/blob/main/path-to-image5.png?raw=true)
